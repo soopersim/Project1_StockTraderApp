@@ -22,10 +22,9 @@ Alpha Vantage API
 
 Search for a Stock:
 
--> Enter a stock symbol in the input field.
--> Click the "Search" button to fetch and display the stock data.
-View Top 10 Stocks:
--> By default, the app displays the top 10 performing stocks.
+(1) Enter a stock symbol in the input field.
+(2) Click the "Search" button to fetch and display the stock data.
+(3) View Top 10 Stocks: By default, the app displays the top 10 performing stocks.
 
 # Customization
 
