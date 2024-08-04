@@ -7,8 +7,11 @@ The Stock Tracker App is a simple web application that allows users to track sto
 Features
 
 (1) Search for specific stock symbols to view their performance.
+
 (2) Display top 10 performing stocks by default.
+
 (3) Responsive and modern design.
+
 (4) Real-time data fetching from the Alpha Vantage API.
 
 # Technologies Used
