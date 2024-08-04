@@ -37,11 +37,7 @@ Styling:
 
 You can customize the look and feel of the application by modifying the style.css file.
 
-Contributing
-
-Contributions are welcome! Please open an issue or submit a pull request for any changes or improvements.
-
-Screenshots
+# Screenshots
 
 <img width="910" alt="Screenshot 2024-08-04 at 8 51 37 PM" src="https://github.com/user-attachments/assets/54b74be1-6ff5-4015-9365-d71459f135a8">
 
@@ -49,8 +45,11 @@ Screenshots
 
 <img width="1216" alt="Screenshot 2024-08-04 at 8 50 01 PM" src="https://github.com/user-attachments/assets/ca437dee-0cbf-449e-a1ea-c71d23de5e34">
 
+# Contributing
 
-Contact
+Contributions are welcome! Please open an issue or submit a pull request for any changes or improvements.
+
+# Contact
 
 If you have any questions or feedback, feel free to reach out.
 
