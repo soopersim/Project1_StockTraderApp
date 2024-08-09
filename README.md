@@ -59,6 +59,6 @@ Email: iamsimimimim@gmail.com
 
 GitHub: soopersim
 
-# Acknowledgement
+# Acknowledgements
 - Alpha Vantage
 - Inspiration from AsmrProg
