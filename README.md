@@ -58,3 +58,7 @@ If you have any questions or feedback, feel free to reach out.
 Email: iamsimimimim@gmail.com
 
 GitHub: soopersim
+
+# Acknowledgement
+- Alpha Vantage
+- Inspiration from AsmrProg
